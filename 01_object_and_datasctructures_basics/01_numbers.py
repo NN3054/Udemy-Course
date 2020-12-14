@@ -18,5 +18,6 @@ print (23 % 2)
 
 print (8**4)
 
+print("Moos mit Soos")
 
 print ((2+10)*10+3)
